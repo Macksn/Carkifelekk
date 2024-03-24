@@ -1,0 +1,31 @@
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\bin\Debug\çarkıfelek.exe
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\bin\Debug\çarkıfelek.pdb
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.Form1.resources
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
+C:\Users\Win10\Desktop\nesne\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.pdb
+C:\Users\Win10\Desktop\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
+C:\Users\Win10\Desktop\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.pdb
+G:\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
+G:\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.pdb
+G:\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.Form1.resources
+G:\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.Properties.Resources.resources
+G:\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.csproj.GenerateResource.Cache
+E:\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\bin\Debug\çarkıfelek.exe
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\bin\Debug\çarkıfelek.pdb
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.Form1.resources
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.Properties.Resources.resources
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.pdb
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.pdb
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\bin\Debug\çarkıfelek.exe
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\bin\Debug\çarkıfelek.pdb
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.Form1.resources
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.Properties.Resources.resources
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.csproj.GenerateResource.Cache
+H:\Wpf Örnekleri\Yeni klasör (2)\çarkıfelekorj\çarkıfelek\obj\x86\Debug\çarkıfelek.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Desktop\çarkıfelek\çarkıfelek\çarkıfelek\obj\x86\Debug\çarkıfelek.exe
